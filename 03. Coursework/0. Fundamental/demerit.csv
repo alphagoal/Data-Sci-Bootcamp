@@ -1,0 +1,43 @@
+demerit_id,description,demerit_point
+1,Dress code violation,1
+2,Late to class,1
+3,In unauthorized area,1
+4,Other minor offenses,1
+5,Misuse of hall pass or privilege,2
+6,Inappropriate public displays of affection,2
+7,Horseplay in common areas or classroom,2
+8,Unprepared for class,2
+9,Malicious remarks,2
+10,Misrepresenting facts,2
+11,Forgery,3
+12,Cutting assemblies or lunch,3
+13,Inappropriate conduct/horseplay,3
+14,Vulgar literature / Drawings / Items,3
+15,Profanity / Vulgarity / Obscene gestures,3
+16,Arguing / Rudeness,3
+17,Class disruption,3
+18,Failure to report to office when requested,3
+19,Leaving class without permission,4
+20,"Misuse of school technology (inappropriate searches, password sharing, pornography)",4
+21,Vandalism/Minor damages to school property/misuse of school equipment and supplies,5
+22,Disrespect for authority,5
+23,Cutting class,5
+24,Leaving school building or property without permission,6
+25,Violation of Tobacco Use Policy,6
+26,Truancy (class cut = 5 demerits),6
+27,Refusing to leave area when instructed to do so,6
+28,Reckless Horseplay,6
+29,Open defiance and contempt for authority,8
+30,Disruptive behavior which causes an interruption or disruption to the school and education environment and process,8
+31,Peer harassment (verbal) ,8
+32,Truancy (whole day cut) ,10
+33,Willful destruction of school property (extreme cases may lead directly to expulsion) ,20
+34,Peer harassment (physical) - also includes suspension,15
+35,"Intentional entrance without consent from the principal into restricted noneducational area(s) such as electrical rooms/maintenance rooms, ceiling, roof,and storage areas",15
+36,Deliberate physical attack on school personnel,30
+37,Fighting – two (2) or more individuals engaged in harmful and/or offensive contact,30
+38,Assault and Battery – the application of force to another resulting in harmful or offensive contact,30
+39,Violation of Weapons Policy,30
+40,Violation of Drug Abuse Policy,30
+41,Violation of the Sexual Harassment Policy,30
+42,Violent criminal offenses ,30
